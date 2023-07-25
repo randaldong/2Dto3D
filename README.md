@@ -40,17 +40,25 @@ The output is viewed using a [online glTF viewer](https://gltf-viewer.donmccurdy
 
 1. French Lady v2, 2k, AI generated
 
+[Watch the video result on YouTube](https://youtu.be/J0DKF72572M)
+
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/9m8Eegy.jpg)](https://youtu.be/J0DKF72572M)
 
 2. French Lady v1, 2k, AI generated
+
+[Watch the video result on YouTube](https://youtu.be/2Q3JrWSQsC8)
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/vXukfXb.jpg)](https://youtu.be/2Q3JrWSQsC8)
 
 3. Old men, 1k, AI generated, from [CIVITAI](https://civitai.com/images/1318029?modelVersionId=105035&prioritizedUserIds=81744&period=AllTime&sort=Most+Reactions&limit=20)
 
+[Watch the video result on YouTube](https://youtu.be/HdOqY-pHu7s)
+
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/RYmZOIi.jpg)](https://youtu.be/HdOqY-pHu7s)
 
 4. Eponine in Les Misérables, still, from [Internet](https://movie.douban.com/photos/photo/1855235220/#title-anchor)
+
+[Watch the video result on YouTube](https://youtu.be/7iX_8lQ2An8)
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/YlWqSIb.jpg)](https://youtu.be/7iX_8lQ2An8)
 
