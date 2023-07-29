@@ -38,6 +38,8 @@ The testing images are all background-removed by [Adobe Express](https://express
 
 The output is viewed using a [online glTF viewer](https://gltf-viewer.donmccurdy.com/) that allows custom lighting.
 
+Complete results are shown in this [YouTube Video](https://youtu.be/sFGVz0iJWOw).
+
 1. French Lady v2, 2k, AI generated
 
 [Watch the video result on YouTube](https://youtu.be/J0DKF72572M)
